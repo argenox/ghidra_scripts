@@ -1,4 +1,4 @@
-# Export all functions
+# Exports all defined functions as C files
 #@author Gustavo Litovsky
 #@category Argenox
 #@keybinding 
